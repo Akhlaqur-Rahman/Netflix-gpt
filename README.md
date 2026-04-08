@@ -63,19 +63,19 @@ Deployment
 
 ### Login Page
 
-![Login](https://github.com/Akhlaqur-Rahman/Netflix-gpt/blob/main/images/login.png)
+![Login](./images/login.png)
 
 ### Signup Page
 
-![Signup](https://github.com/Akhlaqur-Rahman/Netflix-gpt/blob/main/images/signup.png)
+![Signup](./images/signup.png)
 
 ### Homepage
 
-![Homepage](https://github.com/Akhlaqur-Rahman/Netflix-gpt/blob/main/images/homepage.png)
+![Homepage](./images/homepage.png)
 
 ### Movie Details
 
-![Movie](https://github.com/Akhlaqur-Rahman/Netflix-gpt/blob/main/images/movies.png)
+![Movie](./images/movies.png)
 
 ---
 
