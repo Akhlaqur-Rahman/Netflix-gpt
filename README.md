@@ -73,24 +73,6 @@ Deployment
 ### Movie Details
 <img src="https://raw.githubusercontent.com/Akhlaqur-Rahman/Netflix-gpt/main/images/movie.png" width="900"/>
 
-### Login Page
-
-![Login](./images/login.png)
-
-### Signup Page
-
-![Signup](./images/signup.png)
-
-### Homepage
-
-![Homepage](./images/homepage.png)
-
-### Movie Details
-
-![Movie](./images/movie.png)
-
----
-
 ## ⚙️ Installation
 
 Clone the repository
