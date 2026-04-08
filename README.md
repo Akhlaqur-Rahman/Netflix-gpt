@@ -75,7 +75,7 @@ Deployment
 
 ### Movie Details
 
-![Movie](./images/movies.png)
+![Movie](./images/movie.png)
 
 ---
 
