@@ -57,21 +57,9 @@ Deployment
 
 * Vercel
 
----
 
-## 📸 Screenshots
 
-### Login Page
-<img src="https://raw.githubusercontent.com/Akhlaqur-Rahman/Netflix-gpt/main/images/login.png" width="900"/>
 
-### Signup Page
-<img src="https://raw.githubusercontent.com/Akhlaqur-Rahman/Netflix-gpt/main/images/signup.png" width="900"/>
-
-### Homepage
-<img src="https://raw.githubusercontent.com/Akhlaqur-Rahman/Netflix-gpt/main/images/homepage.png" width="900"/>
-
-### Movie Details
-<img src="https://raw.githubusercontent.com/Akhlaqur-Rahman/Netflix-gpt/main/images/movie.png" width="900"/>
 
 ## ⚙️ Installation
 
